@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SnaPeek</string>
+    <string name="create_snap">Create Snap</string>
+    <string name="logout">Logout</string>
+    <string name="todo">TODO</string>
+    <string name="username">username</string>
+    <string name="go">Go</string>
+    <string name="password">Password</string>
+</resources>
